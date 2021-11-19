@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @concerned-tos
-- 👀 I’m interested in golang, rust an haskell
-- 🌱 I’m currently learning rust
+- 👀 I’m interested in golang, rust and haskell.
+- 🌱 I’m currently learning rust.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me:
 via email: x39js@posteo.de
